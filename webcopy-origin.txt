@@ -1,0 +1,2144 @@
+Uri: https://advogadojonas.com/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/all-the-greatest-ideas-come-unexpectedly/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\all-the-greatest-ideas-come-unexpectedly\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/attorneys-list/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\attorneys-list\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/audiencia-de-custodia-o-que-e-e-qual-sua-importancia-no-sistema-penal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\audiencia-de-custodia-o-que-e-e-qual-sua-importancia-no-sistema-penal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/author/advogadojonas-com/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\author\advogadojonas-com\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/author/advogadojonas-com/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\author\advogadojonas-com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/building-a-better-law-practice-reasons-to-specialize/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\building-a-better-law-practice-reasons-to-specialize\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/category/artigo/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\category\artigo\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/category/artigo/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\category\artigo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/comments/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/contacts/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\contacts\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/events/?ical=1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\events\advocacia-jonas-stephani-86cdfb96524.ics
+Content Type: text/calendar
+
+Uri: https://advogadojonas.com/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/fui-preso-em-flagrante-o-que-fazer/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\fui-preso-em-flagrante-o-que-fazer\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/fui-preso-em-flagrante-o-que-fazer/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\fui-preso-em-flagrante-o-que-fazer\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/my-account/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\my-account\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/my-account/lost-password/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/privacy-policy/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/advocaciacriminal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\advocaciacriminal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/advocaciacriminal/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\advocaciacriminal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/defesacriminal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\defesacriminal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/defesacriminal/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\defesacriminal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/direito/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direito\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/direito/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direito\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/direitopenal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direitopenal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/direitopenal/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direitopenal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/direitosdoreu/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direitosdoreu\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/direitosdoreu/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\direitosdoreu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/erro-medico/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\erro-medico\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/erro-medico/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\erro-medico\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/prisao/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\prisao\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/prisao/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\prisao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/processo-penal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\processo-penal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/processo-penal/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\processo-penal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/tag/processopenal/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\processopenal\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/tag/processopenal/feed/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\tag\processopenal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://advogadojonas.com/team/anna-johnson/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\anna-johnson\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/team/emma-winston/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\emma-winston\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/team/joe-lewis/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\joe-lewis\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/team/julia-valmont/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\julia-valmont\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/team/michael-smith/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\michael-smith\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/team/thomas-bryan/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\team\thomas-bryan\index.htm
+Content Type: text/html
+
+Uri: https://advogadojonas.com/wp-admin/js/password-strength-meter.min.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\advanced-popups\fonts\advanced-popups-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\advanced-popups\fonts\advanced-popups-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\advanced-popups\fonts\advanced-popups-icons.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/advanced-popups/public/css/advanced-popups-public.css?ver=1.1.9
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\advanced-popups\public\css\advanced-popups-public.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js?ver=1.1.9
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\advanced-popups\public\js\advanced-popups-public.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/css/animations.css?ver=2.4.4
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\css\animations.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/functions.js?ver=2.4.4
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/spin.jquery.js?ver=2.0.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\spin.jquery.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/spin.min.js?ver=2.0.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\spin.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\tooltipster\css\themes\tooltipster-light.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\tooltipster\css\tooltipster.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min.js?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\assets\js\tooltipster\js\jquery.tooltipster.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/dist/booked.css?ver=2.4.4
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\dist\booked.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/includes/add-ons/frontend-agents/js/functions.js?ver=2.4.4
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\includes\add-ons\frontend-agents\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/includes/add-ons/woocommerce-payments/css/frontend-style.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\includes\add-ons\woocommerce-payments\css\frontend-style.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/booked/includes/add-ons/woocommerce-payments/js/frontend-functions.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\booked\includes\add-ons\woocommerce-payments\js\frontend-functions.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.5
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.5
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.5
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.21.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.21.8
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.8
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.8
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.8
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.21.8
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.29.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/js/gutentor.js?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\js\gutentor.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/animatecss/animate.min.css?ver=3.7.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\animatecss\animate.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/css/all.min.css?ver=5.12.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.eot
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.eot?
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-brands-400.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.eot
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.eot?
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-regular-400.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.eot
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.eot?
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/fontawesome/webfonts/fa-solid-900.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/magnific-popup/magnific-popup.min.css?ver=1.8.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\magnific-popup\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/slick/slick.min.css?ver=1.8.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\slick\slick.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/wow/wow.min.js?ver=1.2.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/assets/library/wpness-grid/wpness-grid.css?ver=1.0.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\assets\library\wpness-grid\wpness-grid.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/dist/blocks.style.build.css?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\dist\blocks.style.build.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/gutentor/dist/gutentor-woocommerce.css?ver=3.3.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\gutentor\dist\gutentor-woocommerce.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.13
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\mailchimp-for-wp\assets\js\forms.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719019598&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719075416&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-2.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719320865&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-5.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719332545&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-1.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719347535&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-14.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418233&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-3.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418234&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-4.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418283&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-7.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418284&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-8.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418285&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-9.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418296&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-10.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418297&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-11.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418298&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-12.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418299&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-13.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418300&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-15.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418303&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-16.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418306&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-17.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719418309&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-18.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719453688&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-6.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719453753&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-19.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/omnisend/styles/site-styles.css?1719453761&ver=1.3.25
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\omnisend\styles\site-styles-20.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/coloredbg.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_3x3.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_3x3_white.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_white.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/assets/loader.gif
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/css/closedhand.cur
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\css\closedhand.cur
+Content Type: text/plain
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/css/openhand.cur
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\css\openhand.cur
+Content Type: text/plain
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.12
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/css/font-awesome.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.eot?5510888
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.svg?5510888
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.ttf?5510888
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.12
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\js\rbtools.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.12
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\revslider\sr6\assets\js\rs6.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\the-events-calendar\common\src\resources\js\underscore-after.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\the-events-calendar\common\src\resources\js\underscore-before.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/the-events-calendar/src/resources/css/integrations/plugins/elementor/widgets/widget-base.min.css?ver=6.5.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\the-events-calendar\src\resources\css\integrations\plugins\elementor\widgets\widget-base.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-single-full.min.css?ver=6.5.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\the-events-calendar\src\resources\css\tribe-events-single-full.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-single-skeleton.min.css?ver=6.5.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\the-events-calendar\src\resources\css\tribe-events-single-skeleton.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=2.8.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\css\public.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=2.8.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\css\webfont.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.eot?ver=xu2uyi
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\fonts\tinvwl-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.svg?ver=xu2uyi
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\fonts\tinvwl-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.ttf?ver=xu2uyi
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\fonts\tinvwl-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\fonts\tinvwl-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff?ver=xu2uyi
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\fonts\tinvwl-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=2.8.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\ti-woocommerce-wishlist\assets\js\public.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/addons/audio-effects/howler/howler.core.min.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\addons\audio-effects\howler\howler.core.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/addons/image-effects/curtains/curtains.min.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\addons\image-effects\curtains\curtains.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/components/cpt/layouts/shortcodes/menu/superfish.min.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\components\cpt\layouts\shortcodes\menu\superfish.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/components/shortcodes/skills/chart-legacy.min.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\components\shortcodes\skills\chart-legacy.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/css/trx_addons_icons.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\css\trx_addons_icons.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.eot?21896786
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\font\trx_addons_icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.svg?21896786
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\font\trx_addons_icons.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.ttf?21896786
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\font\trx_addons_icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.woff2?21896786
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\font\trx_addons_icons.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.woff?21896786
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\font-icons\font\trx_addons_icons.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/images/colorpicker_morecolors.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\images\colorpicker_morecolors.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/images/preloader.gif
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/images/transparent.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\images\transparent.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/trx_addons.animations.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\trx_addons.animations.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/__responsive-full.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\__responsive-full.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/css/__styles-full.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\css\__styles-full.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/js/tweenmax/GSAP/3.12.2/gsap.min.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\js\tweenmax\GSAP\3.12.2\gsap.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/trx_addons/js/__scripts-full.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\trx_addons\js\__scripts-full.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.9.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/wp-gdpr-compliance/Assets/css/front.css?ver=1718043280
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\wp-gdpr-compliance\Assets\css\front.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/plugins/wp-gdpr-compliance/Assets/js/front.min.js?ver=1718043280
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\wp-gdpr-compliance\Assets\js\front.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.8.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/css/__custom-inline.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\css\__custom-inline.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/images/preloader.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\images\preloader.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/images/preloader2.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\images\preloader2.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/images/read.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\images\read.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/js/__scripts-full.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\js\__scripts-full.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-day.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-day.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-day@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-day@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-list.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-list.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-list@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-list@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-map.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-map.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-map@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-map@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-month.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-month.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-month@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-month@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-photo.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-photo.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-photo@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-photo@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-week.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-week.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/plugins/the-events-calendar/images/events-bar/icon-week@2x.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\plugins\the-events-calendar\images\events-bar\icon-week@2x.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/css/fontello.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\css\fontello.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/font/fontello.eot?87296648
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/font/fontello.svg?87296648
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/font/fontello.ttf?87296648
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\font\fontello.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/font/fontello.woff2?87296648
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/font-icons/font/fontello.woff?87296648
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\font-icons\font\fontello.woff
+Content Type: application/font-woff
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/style.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\style.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/__custom.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\__custom.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/__plugins-full.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\__plugins-full.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/css/__responsive-full.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\css\__responsive-full.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/extra-styles.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\extra-styles.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/skins/default/skin.js
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\skins\default\skin.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-content/themes/law-office/style.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\themes\law-office\style.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-21.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-21.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-22.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-22.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-23.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-23.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-7.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-8.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-246x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-246x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-370x451.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-370x451.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-410x500.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-410x500.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-570x696.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-570x696.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-600x732.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-600x732.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-768x937.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-768x937.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9-840x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9-840x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/04/image-9.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\04\image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-1024x683.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-300x200.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-370x247.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-410x273.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-410x273.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-600x400.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-768x512.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-840x560.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-840x560.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107-890x664.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107-890x664.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-107.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-107.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-300x173.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-300x173.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-370x213.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-370x213.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-410x236.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-410x236.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-600x345.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-600x345.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-768x442.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-768x442.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-840x483.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-840x483.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183-890x575.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183-890x575.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-183.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-183.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-1024x683.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-300x200.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-370x247.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-410x273.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-410x273.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-600x400.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-768x512.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-840x560.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-840x560.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19-890x664.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19-890x664.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/05/Imagem-19.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\05\Imagem-19.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/header-1.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\header-1.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-1440x1536.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-1440x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-281x300.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-281x300.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-370x395.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-370x395.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-410x437.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-410x437.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-600x640.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-600x640.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-768x819.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-768x819.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-840x896.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-840x896.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42-960x1024.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42-960x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-42.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-42.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2020/06/image-59.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2020\06\image-59.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2021/08/footer-1.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2021\08\footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2022/01/image-10.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2022\01\image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2022/02/image-60.jpg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2022\02\image-60.jpg
+Content Type: image/jpeg
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-300x200.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-300x200.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-370x247.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-370x247.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-410x273.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-410x273.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-600x400.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-600x400.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-768x512.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-768x512.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-840x560.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-840x560.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175-890x664.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175-890x664.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/Imagem-175.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\Imagem-175.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/logotipo-transparente4-1.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\logotipo-transparente4-1.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/logotipo-transparente4-e1717539911167-120x120.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\logotipo-transparente4-e1717539911167-120x120.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/logotipo-transparente4-e1717539911167-300x300.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\logotipo-transparente4-e1717539911167-300x300.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/2024/06/logotipo-transparente4-e1717539911167.png
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\2024\06\logotipo-transparente4-e1717539911167.png
+Content Type: image/png
+
+Uri: https://advogadojonas.com/wp-content/uploads/trustindex-google-widget.css?ver=1717945161
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-content\uploads\trustindex-google-widget.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/block-editor/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\block-editor\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/components/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\components\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/editor/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\editor\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/patterns/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\patterns\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/preferences/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\preferences\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\css\dist\reusable-blocks\style.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\ui\effect-fade.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\ui\effect.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\masonry.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://advogadojonas.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/wp-util.min.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: https://advogadojonas.com/wp-json/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fall-the-greatest-ideas-come-unexpectedly%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fall-the-greatest-ideas-come-unexpectedly%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fattorneys-list%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fattorneys-list%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Faudiencia-de-custodia-o-que-e-e-qual-sua-importancia-no-sistema-penal%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Faudiencia-de-custodia-o-que-e-e-qual-sua-importancia-no-sistema-penal%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fbuilding-a-better-law-practice-reasons-to-specialize%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fbuilding-a-better-law-practice-reasons-to-specialize%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fcontacts%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fcontacts%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Ffui-preso-em-flagrante-o-que-fazer%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Ffui-preso-em-flagrante-o-que-fazer%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fmy-account%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fmy-account%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fprivacy-policy%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fprivacy-policy%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fanna-johnson%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fanna-johnson%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Femma-winston%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Femma-winston%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fjoe-lewis%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fjoe-lewis%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fjulia-valmont%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fjulia-valmont%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fmichael-smith%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fmichael-smith%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fthomas-bryan%2F
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fadvogadojonas.com%2Fteam%2Fthomas-bryan%2F&format=xml
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\index.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=advocaciacriminal
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=defesacriminal
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-8.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=direito
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-1.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=direitopenal
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-2.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=direitosdoreu
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-3.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=erro-medico
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-7.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=prisao
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-6.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=processo-penal
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-4.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/tribe/events/v1/events/?tags=processopenal
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\tribe\events\v1\events\index-5.htm
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/categories/186
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\categories\186
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1152
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1152
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1158
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1158
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1159
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1159
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1162
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1162
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1163
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1163
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/cpt_team/1164
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\cpt_team\1164
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/pages/12954
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\pages\12954
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/pages/1453
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\pages\1453
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/pages/17896
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\pages\17896
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/pages/2334
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\pages\2334
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/pages/4047
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\pages\4047
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/posts/21394
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\posts\21394
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/posts/2595
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\posts\2595
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/posts/2597
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\posts\2597
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/posts/2599
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\posts\2599
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/184
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\184
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/185
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\185
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/187
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\187
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/188
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\188
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/189
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\189
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/190
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\190
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/191
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\191
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/192
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\192
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/tags/193
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\tags\193
+Content Type: application/json
+
+Uri: https://advogadojonas.com/wp-json/wp/v2/users/1
+File Name: d:\Downloaded Web Sites\advogadojonas.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://advogadojonas.com/xmlrpc.php?rsd
+File Name: d:\Downloaded Web Sites\advogadojonas.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic-ext.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\cyrillic-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic-ext2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\cyrillic-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\cyrillic2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek-ext.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\greek-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek-ext2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\greek-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\greek.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\greek2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin-ext.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin-ext2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\latin-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\latin.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\latin2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/vietnamese.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\vietnamese.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/vietnamese2.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\fonts\opensans\vietnamese2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/icon.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Google\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/logo.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Google\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/e.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Google\star\e.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/f.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Google\star\f.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/h.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Google\star\h.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/e.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Trustindex\star\e.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/f.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Trustindex\star\f.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/h.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Trustindex\star\h.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/s.svg
+File Name: d:\Downloaded Web Sites\advogadojonas.com\assets\platform\Trustindex\star\s.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/loader.js?ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\loader.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&subset=latin,latin-ext&display=swap
+File Name: d:\Downloaded Web Sites\advogadojonas.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=EB+Garamond:400|Lato:700%2C900|Roboto:400&display=swap
+File Name: d:\Downloaded Web Sites\advogadojonas.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.3
+File Name: d:\Downloaded Web Sites\advogadojonas.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUAw.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUAw.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNUAw.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNUAw.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR496.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR496.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR496.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR496.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QI96.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQI96.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxswWw.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVew8.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjUxgby_jcEeU0HhW3YjLTEkH-5C_ftMk_sWpiLO4lWa37XsYDZR=s120-c-rp-mo-br100
+File Name: d:\Downloaded Web Sites\advogadojonas.com\a-\ALV-UjUxgby_jcEeU0HhW3YjLTEkH-5C_ftMk_sWpiLO4lWa37XsYDZR=s120-c-rp-mo-br100
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocIfUxlVNJEfHWib5cBSWnkgrHBSBTbQ69thbeDaAL1cG9d3Zg=s120-c-rp-mo-br100
+File Name: d:\Downloaded Web Sites\advogadojonas.com\a\ACg8ocIfUxlVNJEfHWib5cBSWnkgrHBSBTbQ69thbeDaAL1cG9d3Zg=s120-c-rp-mo-br100
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocLpa10O0ggQOdJGjq03BbgXqCDH7PJvpWkfiY7__3nosGmOYg=s120-c-rp-mo-br100
+File Name: d:\Downloaded Web Sites\advogadojonas.com\a\ACg8ocLpa10O0ggQOdJGjq03BbgXqCDH7PJvpWkfiY7__3nosGmOYg=s120-c-rp-mo-br100
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocLYwWy8Y4tLDsKPQRJxDAV9i0YVK8qJW_gctKuqChhl70YbWA=s120-c-rp-mo-br100
+File Name: d:\Downloaded Web Sites\advogadojonas.com\a\ACg8ocLYwWy8Y4tLDsKPQRJxDAV9i0YVK8qJW_gctKuqChhl70YbWA=s120-c-rp-mo-br100
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/b9b5490b4b20e28eaa4ad667934d2576?s=112&d=mm&r=g
+File Name: d:\Downloaded Web Sites\advogadojonas.com\avatar\b9b5490b4b20e28eaa4ad667934d2576-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/b9b5490b4b20e28eaa4ad667934d2576?s=120&d=mm&r=g
+File Name: d:\Downloaded Web Sites\advogadojonas.com\avatar\b9b5490b4b20e28eaa4ad667934d2576-2.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/b9b5490b4b20e28eaa4ad667934d2576?s=240&d=mm&r=g
+File Name: d:\Downloaded Web Sites\advogadojonas.com\avatar\b9b5490b4b20e28eaa4ad667934d2576-3.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/b9b5490b4b20e28eaa4ad667934d2576?s=56&d=mm&r=g
+File Name: d:\Downloaded Web Sites\advogadojonas.com\avatar\b9b5490b4b20e28eaa4ad667934d2576.png
+Content Type: image/jpeg
+
+Uri: https://stats.wp.com/w.js?ver=202425
+File Name: d:\Downloaded Web Sites\advogadojonas.com\w.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/w.js?ver=202426
+File Name: d:\Downloaded Web Sites\advogadojonas.com\w-1.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/css/all.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/css/v4-shims.css
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-brands-400.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-brands-400.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-regular-400.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-regular-400.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-solid-900.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-solid-900.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-v4compatibility.ttf
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.5.2/webfonts/fa-v4compatibility.woff2
+File Name: d:\Downloaded Web Sites\advogadojonas.com\releases\v6.5.2\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11049151804
+File Name: d:\Downloaded Web Sites\advogadojonas.com\gtag\js
+Content Type: application/javascript
+

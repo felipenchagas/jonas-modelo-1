@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Advocacia Jonas Stephâni - ECPv6.5.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Advocacia Jonas Stephâni
+X-ORIGINAL-URL:https://advogadojonas.com
+X-WR-CALDESC:Eventos para Advocacia Jonas Stephâni
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20220101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20220610T100000
+DTEND;TZID=UTC:20240713T133000
+DTSTAMP:20240626T131006
+CREATED:20200428T162928Z
+LAST-MODIFIED:20220504T142114Z
+UID:1202-1654855200-1720877400@advogadojonas.com
+SUMMARY:Excellence in Law Awards: Talented Decisions Of The Year
+DESCRIPTION:Lorem ipsum dolor sit amet\, consectetur adipiscing elit. Fusce laoreet\, ligula condimentum tincidunt\, arcu orci laoreet massa\, nec sagittis elit urna in diam. Sed consectetur dolor non nulla porttitor\, in scelerisque quam ultricies. Phasellus et ipsum justo. Aenean fringilla a fermentum mauris non venenatis. Praesent at nulla aliquam\, fermentum ligula a eget\, fermentum metus. Morbi auctor sed dui et rhoncus. Maecenas varius suscipit ipsum\, vitae et pretium est mollis nec. \nNullam arcu enim\, dictum at pharetra pharetra\, vulputate ut eros. In ante lacus\, varius quis facilisis vitae\, iaculis sit amet justo. Donec hendrerit diam. Pellentesque egestas risus a cursus nisl aliquam malesuada. Donec suscipit posuere fringilla. Vivamus tristique\, odio non efficitur malesuada\, purus quam dictum elit\, vitae hendrerit ex magna et urna. Nulla sed blandit ante\, eu auctor felis. Vivamus ornare quam dignissim odio tincidunt a eleifend. Maecenas gravida porta purus est vestibulum. Nam ut elit massa. Etiam metus sapien\, placerat eget volutpat eu\, ultrices id elit. Sed vel neque ac quam molestie scelerisque nec non neque. Duis sed mi augue imperdiet eleifend. Vivamus rutrum a turpis eu porta. Donec sagittis est eleifend tortor feugiat\, molestie diam dapibus. Morbi tristique at erat at efficitur. Donec efficitur\, neque quis luctus et aliquet\, libero erat condimentum arcu\, at varius augue justo condimentum tortor.
+URL:https://advogadojonas.com/event/excellence-in-law-awards-talented-decisions-of-the-year/
+LOCATION:Manhattan Club\, 350 5th Ave\, New York\, NY\, 10118\, United States
+CATEGORIES:Events
+ATTACH;FMTTYPE=image/jpeg:https://advogadojonas.com/wp-content/uploads/2020/04/image-39.jpg
+ORGANIZER;CN="Ashton Porter":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20220715T080000
+DTEND;TZID=UTC:20240727T163000
+DTSTAMP:20240626T131006
+CREATED:20200428T162832Z
+LAST-MODIFIED:20220504T141927Z
+UID:1200-1657872000-1722097800@advogadojonas.com
+SUMMARY:20th Annual Public International Law Conference
+DESCRIPTION:Lorem ipsum dolor sit amet\, consectetur adipiscing elit. Fusce laoreet\, ligula condimentum tincidunt\, arcu orci laoreet massa\, nec sagittis elit urna in diam. Sed consectetur dolor non nulla porttitor\, in scelerisque quam ultricies. Phasellus et ipsum justo. Aenean fringilla a fermentum mauris non venenatis. Praesent at nulla aliquam\, fermentum ligula a eget\, fermentum metus. Morbi auctor sed dui et rhoncus. Maecenas varius suscipit ipsum\, vitae et pretium est mollis nec. \nNullam arcu enim\, dictum at pharetra pharetra\, vulputate ut eros. In ante lacus\, varius quis facilisis vitae\, iaculis sit amet justo. Donec hendrerit diam. Pellentesque egestas risus a cursus nisl aliquam malesuada. Donec suscipit posuere fringilla. Vivamus tristique\, odio non efficitur malesuada\, purus quam dictum elit\, vitae hendrerit ex magna et urna. Nulla sed blandit ante\, eu auctor felis. Vivamus ornare quam dignissim odio tincidunt a eleifend. Maecenas gravida porta purus est vestibulum. Nam ut elit massa. Etiam metus sapien\, placerat eget volutpat eu\, ultrices id elit. Sed vel neque ac quam molestie scelerisque nec non neque. Duis sed mi augue imperdiet eleifend. Vivamus rutrum a turpis eu porta. Donec sagittis est eleifend tortor feugiat\, molestie diam dapibus. Morbi tristique at erat at efficitur. Donec efficitur\, neque quis luctus et aliquet\, libero erat condimentum arcu\, at varius augue justo condimentum tortor.
+URL:https://advogadojonas.com/event/20th-annual-public-international-law-conference/
+LOCATION:Manhattan Club\, 350 5th Ave\, New York\, NY\, 10118\, United States
+CATEGORIES:Conferences
+ATTACH;FMTTYPE=image/jpeg:https://advogadojonas.com/wp-content/uploads/2020/04/image-41.jpg
+ORGANIZER;CN="Ashton Porter":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20220813T113000
+DTEND;TZID=UTC:20240914T170000
+DTSTAMP:20240626T131006
+CREATED:20200428T165330Z
+LAST-MODIFIED:20220504T141918Z
+UID:1206-1660390200-1726333200@advogadojonas.com
+SUMMARY:International Summit of Law and Society ISLS 2022
+DESCRIPTION:Lorem ipsum dolor sit amet\, consectetur adipiscing elit. Fusce laoreet\, ligula condimentum tincidunt\, arcu orci laoreet massa\, nec sagittis elit urna in diam. Sed consectetur dolor non nulla porttitor\, in scelerisque quam ultricies. Phasellus et ipsum justo. Aenean fringilla a fermentum mauris non venenatis. Praesent at nulla aliquam\, fermentum ligula a eget\, fermentum metus. Morbi auctor sed dui et rhoncus. Maecenas varius suscipit ipsum\, vitae et pretium est mollis nec. \nNullam arcu enim\, dictum at pharetra pharetra\, vulputate ut eros. In ante lacus\, varius quis facilisis vitae\, iaculis sit amet justo. Donec hendrerit diam. Pellentesque egestas risus a cursus nisl aliquam malesuada. Donec suscipit posuere fringilla. Vivamus tristique\, odio non efficitur malesuada\, purus quam dictum elit\, vitae hendrerit ex magna et urna. Nulla sed blandit ante\, eu auctor felis. Vivamus ornare quam dignissim odio tincidunt a eleifend. Maecenas gravida porta purus est vestibulum. Nam ut elit massa. Etiam metus sapien\, placerat eget volutpat eu\, ultrices id elit. Sed vel neque ac quam molestie scelerisque nec non neque. Duis sed mi augue imperdiet eleifend. Vivamus rutrum a turpis eu porta. Donec sagittis est eleifend tortor feugiat\, molestie diam dapibus. Morbi tristique at erat at efficitur. Donec efficitur\, neque quis luctus et aliquet\, libero erat condimentum arcu\, at varius augue justo condimentum tortor.
+URL:https://advogadojonas.com/event/international-summit-of-law-and-society-isls-2022/
+LOCATION:Manhattan Club\, 350 5th Ave\, New York\, NY\, 10118\, United States
+CATEGORIES:Meetings
+ATTACH;FMTTYPE=image/jpeg:https://advogadojonas.com/wp-content/uploads/2020/04/image-38.jpg
+ORGANIZER;CN="Ashton Porter":MAILTO:info@example.com
+END:VEVENT
+END:VCALENDAR

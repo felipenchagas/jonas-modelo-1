@@ -1,0 +1,108 @@
+/* Extra Styles +++++++++
+ ++++++++++++++++++++++ */
+#style-1.mc4wp-form label,
+.sc_layouts_row_type_compact .sc_layouts_item a:not(.sc_button):not([class*="button"]),
+[class*="scheme_"].sc_layouts_row_type_compact .sc_layouts_item a:not(.sc_button):not([class*="button"]){
+    color: var(--theme-color-text_dark);
+}
+.sc_layouts_menu_nav > li li.current-menu-item > a,
+.sc_layouts_menu_nav > li li.current-menu-parent > a,
+.sc_layouts_menu_nav > li li.current-menu-ancestor > a,
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-item > a,
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-parent > a,
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-ancestor > a{
+    color: var(--theme-color-text_dark)!important;
+}
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-item > a:after,
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-parent > a:after,
+.menu_hover_zoom_line .sc_layouts_menu_nav > li.current-menu-ancestor > a:after{
+    background-color: var(--theme-color-text_dark);
+}
+h3#ship-to-different-address label > span:before,
+input[type="radio"] + label:before,
+input[type="checkbox"] + label:before,
+input[type="radio"] + .wpcf7-list-item-label:before,
+input[type="checkbox"] + .wpcf7-list-item-label:before,
+.wpcf7-list-item-label.wpcf7-list-item-right:before,
+.edd_price_options ul > li > label > input[type="radio"] + span:before,
+.edd_price_options ul > li > label > input[type="checkbox"] + span:before{
+    border-color: var(--theme-color-bd_color);
+}
+.sc_icons.sc_icons_motley .sc_icons_item_title{
+    text-transform: uppercase;
+}
+
+.sc_testimonials_list .sc_testimonials_item_author_data .sc_testimonials_item_author_title{
+    color: var(--theme-color-text_dark);
+}
+.sc_testimonials_list .sc_testimonials_item_author_data .sc_testimonials_item_author_subtitle,
+.sc_testimonials_list .sc_testimonials_item_author_data .sc_testimonials_item_author_title + .sc_testimonials_item_author_subtitle{
+    color: var(--theme-color-text_light);
+}
+.sc_testimonials_list [class*="column"] .sc_testimonials_item_content, .sc_testimonials_list .sc_testimonials_item_content{
+    color: var(--theme-color-text_dark);
+    font-weight:400;
+}
+.woocommerce a.remove:after{
+    color: var(--theme-color-extra_dark)!important;
+}
+.sc_layouts_cart .sc_layouts_cart_widget .widget_shopping_cart_content .buttons a.checkout:hover{
+    color: var(--theme-color-extra_dark)!important;
+    border-color: var(--theme-color-text_hover)!important;
+    background-color: var(--theme-color-text_hover)!important;
+}
+.wp-block-group .wp-block-group__inner-container h1,
+.wp-block-group .wp-block-group__inner-container h2,
+.wp-block-group .wp-block-group__inner-container h3,
+.wp-block-group .wp-block-group__inner-container h4,
+.wp-block-group .wp-block-group__inner-container h5,
+.wp-block-group .wp-block-group__inner-container h6{
+    margin-top:0;
+}
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input{
+    padding: 0.77em 0 0.77em 0.25em;
+}
+.widget ul.wp-block-social-links li + li{
+    margin-top:0;
+}
+
+[class*="scheme_"].sidebar  .wp-block-group .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input{
+    background-color: var(--theme-color-bg_color);
+}
+[class*="scheme_"].footer_wrap .widget_calendar td#prev a:before,
+[class*="scheme_"].footer_wrap .widget_calendar td#next a:before,
+[class*="scheme_"].footer_wrap .widget_calendar .wp-calendar-nav a:before,
+[class*="scheme_"].footer_wrap .wp-block-calendar td#prev a:before,
+[class*="scheme_"].footer_wrap .wp-block-calendar td#next a:before,
+[class*="scheme_"].footer_wrap .wp-block-calendar .wp-calendar-nav a:before,
+[class*="scheme_"].footer_wrap, .footer_wrap [class*="scheme_"].vc_row{
+    background-color: var(--theme-color-alter_bg_hover);
+}
+[class*="scheme_"].footer_wrap .wp-block-tag-cloud a,
+[class*="scheme_"].footer_wrap .sc_edd_details .downloads_page_tags .downloads_page_data > a,
+[class*="scheme_"].footer_wrap .widget_product_tag_cloud a,
+[class*="scheme_"].footer_wrap .widget_tag_cloud a{
+    color: var(--theme-color-alter_dark);
+    background-color: var(--theme-color-alter_bg_color);
+}
+[class*="scheme_"].footer_wrap .wp-block-tag-cloud a:hover,
+[class*="scheme_"].footer_wrap .sc_edd_details .downloads_page_tags .downloads_page_data > a:hover,
+[class*="scheme_"].footer_wrap .widget_product_tag_cloud a:hover,
+[class*="scheme_"].footer_wrap .widget_tag_cloud a:hover{
+    color: var(--theme-color-alter_bg_color)!important;
+    background-color: var(--theme-color-alter_dark);
+}
+.footer_wrap [class*="scheme_"] .widget_search .wp-block-search__input,
+.footer_wrap [class*="scheme_"] .widget_search .search-field,
+.footer_wrap [class*="scheme_"] .woocommerce.widget_product_search .search_field,
+.footer_wrap [class*="scheme_"] .widget_display_search #bbp_search,
+.footer_wrap [class*="scheme_"] #bbpress-forums #bbp-search-form #bbp_search{
+    background-color: var(--theme-color-alter_bg_color);
+}
+.woocommerce div.product .summary .woocommerce-grouped-product-list-item__price .stock{
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+.woocommerce div.product .summary .woocommerce-grouped-product-list-item__price .stock:after{
+    margin-bottom:0;
+}
